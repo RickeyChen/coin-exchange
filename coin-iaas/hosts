@@ -1,0 +1,4 @@
+# coin exchange DNS settings
+127.0.0.1 sentinel-server
+127.0.0.1 nacos-server
+127.0.0.1 seata-server
